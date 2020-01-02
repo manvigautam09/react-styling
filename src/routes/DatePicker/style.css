@@ -1,0 +1,29 @@
+.containers {
+  width: 100%;
+  display: flex;
+  flex-direction: inherit;
+  justify-content: center;
+  align-items: center;
+  padding-top: 30px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+.material-contain {
+  width: inherit;
+  display: inherit;
+  flex-direction: inherit;
+  justify-content: inherit;
+  align-items: inherit;
+}
+.material-picker-container {
+  width: inherit;
+  display: inherit;
+  justify-content: space-around;
+  align-items: inherit;
+}
+.margin-para {
+  margin-top: 20px;
+  margin-bottom: 40px;
+  font-weight: 500;
+  font-size: 20px;
+}
