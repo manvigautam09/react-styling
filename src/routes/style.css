@@ -1,0 +1,16 @@
+.container{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    padding:20px;
+    background: linear-gradient(to right top, #05f4f2, #00deff, #00c5ff, #00aaff, #058bf9);
+    width:100%;
+    max-width:100%!important;
+    height: 100vh;
+    overflow-y: auto;
+
+}
+    
+.react-strap-container{
+width:400px;
+}
