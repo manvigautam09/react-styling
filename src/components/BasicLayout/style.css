@@ -1,0 +1,18 @@
+.outer-contain {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background: linear-gradient(
+    to right top,
+    #05f4f2,
+    #00deff,
+    #00c5ff,
+    #00aaff,
+    #058bf9
+  );
+  width: 100%;
+  height: 100vh;
+  overflow-y: auto;
+}
